@@ -1,17 +1,29 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
-    "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
-    "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
-    "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
+    "./src/pages/**/*.{js,ts,jsx,tsx}",
+    "./src/components/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
     extend: {
-      colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+      typography: {
+        DEFAULT: {
+          css: {
+            h1: {
+              fontSize: '2.25rem',
+              fontWeight: '700',
+              color: '#333',
+            },
+            h2: {
+              fontSize: '1.875rem',
+              fontWeight: '600',
+              color: '#444',
+            },
+            // Add more customizations as needed
+          },
+        },
       },
     },
   },
-  plugins: [],
+  plugins: [require('@tailwindcss/typography')],
 };
