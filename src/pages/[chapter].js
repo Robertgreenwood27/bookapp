@@ -1,9 +1,9 @@
-// src/pages/[chapter].js
-
 import { processChapter } from '../utils/chapterProcessor';
-import PaginatedChapter from '../components/PaginatedChapter';
+import dynamic from 'next/dynamic';
 import fs from 'fs';
 import path from 'path';
+
+const ChapterLayout = dynamic(() => import('../components/ChapterLayout'), { ssr: false });
 
 export async function getStaticPaths() {
   const contentDir = path.join(process.cwd(), 'content');
@@ -38,7 +38,7 @@ export async function getStaticProps({ params }) {
 
 export default function Chapter({ title, pages, images, prevChapter, nextChapter }) {
   return (
-    <PaginatedChapter
+    <ChapterLayout
       pages={pages}
       images={images}
       title={title}
