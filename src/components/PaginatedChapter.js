@@ -77,27 +77,27 @@ const PaginatedChapter = ({ pages, images, title, prevChapter, nextChapter }) =>
       </div>
       <div className="fixed inset-0 bg-black opacity-50" />
       
-      <div className="relative z-10 flex flex-col min-h-screen max-w-4xl mx-auto w-full px-4">
+      <div className="relative z-10 flex flex-col min-h-screen w-full px-2 sm:px-4">
         <header className="py-4 text-white text-center">
-          <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold">{title}</h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold">{title}</h1>
         </header>
 
         <main className="flex-1 flex items-center justify-center">
-          <div className="bg-black bg-opacity-50 p-6 rounded-lg max-w-2xl w-full">
-            <div className="prose prose-invert" dangerouslySetInnerHTML={{ __html: pages[currentPage] }} />
+          <div className="bg-black bg-opacity-50 p-4 sm:p-6 rounded-lg w-full max-w-4xl mx-auto">
+            <div className="prose prose-invert prose-sm sm:prose-base lg:prose-lg mx-auto text-center" dangerouslySetInnerHTML={{ __html: pages[currentPage] }} />
           </div>
         </main>
 
-        <footer className="py-4 text-white flex justify-between items-center">
+        <footer className="py-4 text-white flex justify-between items-center max-w-4xl mx-auto w-full">
           {currentPage > 0 ? (
             <button onClick={handlePrevPage} className="flex items-center hover:underline">
               <ChevronLeft size={20} />
-              <span className="ml-1">Previous Page</span>
+              <span className="ml-1 hidden sm:inline">Previous Page</span>
             </button>
           ) : prevChapter ? (
             <Link href={`/${prevChapter}`} className="flex items-center hover:underline">
               <ChevronLeft size={20} />
-              <span className="ml-1">Previous Chapter</span>
+              <span className="ml-1 hidden sm:inline">Previous Chapter</span>
             </Link>
           ) : <div />}
           
@@ -114,12 +114,12 @@ const PaginatedChapter = ({ pages, images, title, prevChapter, nextChapter }) =>
           
           {currentPage < pages.length - 1 ? (
             <button onClick={handleNextPage} className="flex items-center hover:underline">
-              <span className="mr-1">Next Page</span>
+              <span className="mr-1 hidden sm:inline">Next Page</span>
               <ChevronRight size={20} />
             </button>
           ) : nextChapter ? (
             <Link href={`/${nextChapter}`} className="flex items-center hover:underline">
-              <span className="mr-1">Next Chapter</span>
+              <span className="mr-1 hidden sm:inline">Next Chapter</span>
               <ChevronRight size={20} />
             </Link>
           ) : <div />}
