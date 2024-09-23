@@ -1,5 +1,5 @@
 // pages/index.js
-import Layout from '../components/layout'
+import Layout from '../components/Layout'
 import TOC from '../components/toc';
 import fs from 'fs';
 import path from 'path';
