@@ -108,24 +108,36 @@ Arris raised his arms to protect his face, feeling the sting of glass against hi
 He stumbled out of the bathroom, out of the apartment, into the chaos of the night. The street was a scene of pandemonium. Car alarms still blared, joined now by the wail of distant sirens. People emerged from their homes, faces lit by the eerie glow of malfunctioning streetlights.
 
 As Arris walked down the sidewalk, the chaos followed him like a wake. Phones stopped working in his presence. Watches went haywire. A passing bus shuddered to a stop, its engine dying with a final, strangled gasp.
-
-*I can't stay here. Can't be around people. I'm a danger to everyone and everything.*
-
+I can't stay here. Can't be around people. I'm a danger to everyone and everything.
 With no destination in mind, Arris began to walk. The shadows swirled around him, a visible manifestation of the turmoil within. And as he disappeared into the night, the city trembled in his wake, sensing that something fundamental had changed, that a force beyond understanding now walked its streets.
+For hours, Arris wandered the darkened city, his path lit only by the occasional flicker of malfunctioning streetlights. The weight of his power pressed down on him, a burden that grew heavier with each step. As the first hints of dawn began to color the sky, he found himself drawn back to the one place he could call home – his apartment.
+Home. Is it even that anymore? Can anywhere be home for... whatever I've become?
+Arris trudged up the stairs, each step an effort against the exhaustion that saturated his being. He pushed open his apartment door, greeted by the familiar yet now alien surroundings. Without bothering to turn on the lights, he made his way to his bedroom.
+Instead of collapsing onto the bed as he desperately wanted to, Arris slid down the wall beside it, coming to rest on the floor. He drew his knees up to his chest, wrapping his arms around them as if trying to hold himself together.
+Sleep. I need sleep. Maybe if I just close my eyes, all of this will have been a nightmare.
+But sleep refused to come. Arris sat there, motionless, as the room gradually lightened with the approaching day. His mind raced, replaying the events of the past weeks, the destruction he'd caused, the lives he'd upended.
+The shadows around him pulsed and writhed, responding to his tumultuous thoughts. Hours passed, marked only by the steadily increasing light seeping through the curtains.
+Then, breaking the oppressive silence:
+Chirp.
+Arris's eyes snapped open, focusing on his phone on the nightstand. 5:30 AM. Time for another day at the call center. Another day of pretending to be normal. Of holding back the tide of darkness that threatened to consume him and everything around him.
+Shit.
+Swipe. Click.
+I guess we go again.
+With a groan that seemed to come from the depths of his soul, Arris pushed himself to his feet. He stared at his reflection in the mirror, hardly recognizing the pale, haunted face that stared back at him.
+Another day. Another mask. How long can I keep this up?
+As Arris began to prepare for work, the shadows clung to him, a constant reminder of the power that simmered just beneath the surface. And deep within, a part of him wondered if today would be the day he finally lost control completely.
+Chirp. The world waits. Swipe. Click. Here we go again. But this time, as Arris stepped out into the morning light, he carried with him the weight of a night spent confronting the monster he'd become.
 
-Chirp. The world reacts. Swipe. Click. Here we go again. But this time, as Arris wandered through the chaos he had unwittingly created, he realized that there might be no going back to the life he once knew.
 
 
 ## Part 3: The Breaking Point
 
-The call center loomed before Arris, a monument to monotony now transformed into a crucible of chaos. As he approached, the air grew thick and heavy, shadows writhing around him like restless serpents. The automatic doors slid open with a hiss, as if the building itself was drawing in a fearful breath.
-
-*Another day in this hellhole. But today... today feels different. The power within me, it's crescendoing. Building to something. An ending? Or a beginning?*
-
-Arris moved through the maze of cubicles, leaving a wake of flickering lights and malfunctioning equipment. Coworkers shrank back as he passed, their faces masks of fear and confusion. He could taste their emotions on the air - bitter terror, acrid uncertainty.
-
-As he settled into his chair, the cubicle walls seemed to bend inward, as if trying to contain the darkness that radiated from him. His computer screen flickered to life without being touched, lines of code scrolling past at impossible speeds.
-
+The call center loomed before Arris, a monument to monotony now transformed into a crucible of chaos. As he approached, each step heavy with exhaustion and dread, the air grew thick and heavy. Shadows writhed around him like restless serpents, responding to the turmoil within him.
+Just another day. Just have to make it through. Keep it together. Don't let them see.
+The automatic doors slid open with a hiss, as if the building itself was drawing in a fearful breath. Arris stepped inside, the fluorescent lights flickering and dimming in his presence. He could feel the eyes of his coworkers on him, a mixture of fear and curiosity in their gazes.
+As he made his way to his cubicle, Arris tried to ignore the whispers that followed in his wake. He sank into his chair, the familiar confines of his workspace feeling more like a prison than ever before.
+I shouldn't be here. It's not safe. I'm not safe.
+But he had nowhere else to go. Nothing else to do but play out this farce of normalcy until... until what? Until he couldn't hold it back anymore? Until the darkness finally consumed him completely?
 Chirp. Another call. Swipe. Click. Here we go again.
 
 "Pulse Telecom," Arris growled, his voice resonating with otherworldly power. "Speak."
@@ -187,6 +199,7 @@ Chirp. A city in darkness. Swipe. Click. Here we go again. But this time, as Arr
 And somewhere in the distance, a phone began to ring, carrying with it the possibility of redemption or damnation.
 
 
+
 ## Part 4: Redemption and Balance
 The apartment door flew open, slamming against the wall with enough force to crack the plaster. Arris stumbled in, his breath coming in ragged gasps. The shadows clung to him like a second skin, writhing and pulsing with barely contained energy.
 Please, let them be okay. Let me not be too late.
@@ -221,4 +234,3 @@ As the first light of dawn began to creep through the windows, Arris finally all
 Sleep came swiftly, dreamless and deep.
 At precisely 5:30 AM, the alarm chirped to life. Arris's eyes opened, clear and alert. For a moment, he simply lay there, feeling the weight of his body against the mattress, the coolness of the air on his skin.
 Chirp. Another day. Swipe. Click. Here we go again.
-But this time, as Arris rose to face the world, there was no darkness waiting to consume him. Just a new day, full of possibility and the chance to make things right.
