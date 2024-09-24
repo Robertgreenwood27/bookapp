@@ -20,7 +20,7 @@ export default function Home({ chapters }) {
   return (
     <Layout backgroundImage="/images/home-bg.jpg">
       <div>
-        <h1>Throne of Shadows</h1> 
+        <h1>Chirp</h1> 
         <TOC chapters={chapters} />
       </div>
     </Layout>
