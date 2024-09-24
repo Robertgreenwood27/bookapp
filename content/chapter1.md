@@ -1,3 +1,8 @@
+---
+title: "Chapter 1: The Routine"
+backgroundImage: "/images/default-bg.jpg"
+---
+
 ## Part 1: The Morning Ritual
 
 The alarm's shrill cry lacerates the darkness. 5:30 AM. Another day begins. My eyes snap open, bloodshot and burning, hand already moving to silence the noise. Lie still. Breathe. Feel the weight of existence settling onto my chest, a familiar, unwelcome guest.
