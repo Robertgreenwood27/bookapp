@@ -18,7 +18,11 @@ const ChapterLayout = ({ pages, images, title, prevChapter, nextChapter }) => {
       sections.forEach((section, index) => {
         const rect = section.getBoundingClientRect();
         if (rect.top <= windowHeight / 2 && rect.bottom >= windowHeight / 2) {
-          document.body.style.backgroundImage = `url(${images[index]})`;
+          if (images[index]) {
+            document.body.style.backgroundImage = `url(${images[index]})`;
+          } else {
+            document.body.style.backgroundImage = 'none';
+          }
         }
       });
     };
@@ -40,8 +44,8 @@ const ChapterLayout = ({ pages, images, title, prevChapter, nextChapter }) => {
       <main ref={contentRef} className="flex-1 w-full max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         {pages.map((content, index) => (
           <section key={index} className="chapter-section mb-12">
-            <div className="relative w-full h-64 sm:h-96 mb-6">
-              {images[index] && (
+            {images[index] && (
+              <div className="relative w-full h-64 sm:h-96 mb-6">
                 <Image
                   src={images[index]}
                   alt={`Image for section ${index + 1}`}
@@ -50,8 +54,8 @@ const ChapterLayout = ({ pages, images, title, prevChapter, nextChapter }) => {
                   style={{ objectFit: "cover" }}
                   className="rounded-lg"
                 />
-              )}
-            </div>
+              </div>
+            )}
             <div 
               className="prose prose-invert prose-sm sm:prose-base lg:prose-lg mx-auto"
               dangerouslySetInnerHTML={{ __html: content }}

@@ -10,14 +10,6 @@ function splitIntoSentences(text) {
   return text.match(/[^\.!\?]+[\.!\?]+/g) || [];
 }
 
-function startsWithHeader(sentence) {
-  return sentence.trim().startsWith('##');
-}
-
-function isIncompleteSentence(sentence) {
-  return sentence.trim().startsWith('.') || sentence.trim().startsWith('"');
-}
-
 export async function processChapter(chapterFileName) {
   const contentDir = path.join(process.cwd(), 'content');
   const filePath = path.join(contentDir, chapterFileName);
@@ -38,9 +30,8 @@ export async function processChapter(chapterFileName) {
   let pages = [];
   let pageImages = [];
   let currentPage = '';
-  const defaultImage = data.backgroundImage || '/images/default-bg.jpg';
   let wordCount = 0;
-  let currentImage = defaultImage;
+  let currentImage = null;
 
   for (let i = 0; i < sentences.length; i++) {
     const sentence = sentences[i];
@@ -53,7 +44,7 @@ export async function processChapter(chapterFileName) {
       pageImages.push(currentImage);
       currentPage = '';
       wordCount = 0;
-      currentImage = defaultImage; // Reset to default image for the new page
+      currentImage = null; // Reset to null for the new page
     }
 
     // Add the sentence to the current page
