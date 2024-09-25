@@ -2,6 +2,7 @@ import { processChapter } from '../utils/chapterProcessor';
 import dynamic from 'next/dynamic';
 import fs from 'fs';
 import path from 'path';
+import Highlighter from '../components/Highlighter';
 
 const ChapterLayout = dynamic(() => import('../components/ChapterLayout'), { ssr: false });
 
@@ -31,17 +32,21 @@ export async function getStaticProps({ params }) {
       content,
       prevChapter,
       nextChapter,
+      chapterId: params.chapter,
     },
   };
 }
 
-export default function Chapter({ title, content, prevChapter, nextChapter }) {
+export default function Chapter({ title, content, prevChapter, nextChapter, chapterId }) {
   return (
+    <>
     <ChapterLayout
       content={content}
       title={title}
       prevChapter={prevChapter}
       nextChapter={nextChapter}
     />
+    <Highlighter chapterId={chapterId} />
+    </>
   );
 }
