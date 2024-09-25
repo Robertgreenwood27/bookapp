@@ -132,7 +132,7 @@ Chirp. Another call. Swipe. Click. Here we go again.
 
 "Thank you for calling Pulse Telecom Billing Department. My name is Arris. How can I help you today?" The words flowed automatically, a river of false cheer masking the turbulent undercurrents beneath.
 
-"Yeah, hi," a gruff voice barked through the headset. "I've got a problem with my bill. You people are charging me for services I never ordered!"
+"Yeah." a gruff voice barked through the headset. "I've got a problem with my bill. You people are charging me for services I never ordered!"
 
 Arris felt the familiar surge of darkness within him, a coiling serpent ready to strike. His veins darkened, stark against his pallid skin, pulsing with an otherworldly rhythm.
 

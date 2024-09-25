@@ -33,7 +33,7 @@ Chirp. Another call. Swipe. Click. Here we go again.
 
 "Thank you for calling Pulse Telecom Billing Department. My name is Arris. How can I help you today?" The words flowed automatically, but there was a new undercurrent to his voice, a subtle power that seemed to resonate through the phone line.
 
-"Yeah, hi," a gruff voice barked. "I've got a problem with my bill. You people are charging me for services I never ordered!"
+"I've got a problem with my bill. You people are charging me for services I never ordered!"
 
 Arris felt the familiar surge of darkness within him, but this time, he didn't fight it. Instead, he reached out with his mind, brushing against the caller's consciousness. Emotions flooded him – anger, frustration, a deep-seated fear of being cheated. He could almost taste them, bitter and intoxicating.
 
