@@ -10,7 +10,7 @@ const TextHighlighter = ({ chapterId }) => {
     document.body.style.cursor = isHighlightMode ? 'default' : 'crosshair';
   };
 
-  const handleTextSelection = () => {
+  const handleSelection = useCallback(() => {
     if (!isHighlightMode) return;
 
     const selection = window.getSelection();
@@ -31,7 +31,7 @@ const TextHighlighter = ({ chapterId }) => {
       setIsHighlightMode(false);
       document.body.style.cursor = 'default';
     }
-  };
+  }, [isHighlightMode]);
 
   const removeExistingHighlight = () => {
     const existingHighlight = document.querySelector('.highlight');
@@ -65,7 +65,7 @@ const TextHighlighter = ({ chapterId }) => {
   };
 
   const restoreHighlight = useCallback(() => {
-    removeExistingHighlight(); // Remove any existing highlight before restoring
+    removeExistingHighlight();
     
     const savedHighlight = localStorage.getItem(`highlight_${chapterId}`);
     if (savedHighlight) {
@@ -97,7 +97,7 @@ const TextHighlighter = ({ chapterId }) => {
             }
           } else {
             setDebug('Content element not found, retrying...');
-            setTimeout(findAndHighlight, 100); // Retry after 100ms
+            setTimeout(findAndHighlight, 100);
           }
         };
 
@@ -117,11 +117,24 @@ const TextHighlighter = ({ chapterId }) => {
   }, [restoreHighlight]);
 
   useEffect(() => {
-    document.addEventListener('mouseup', handleTextSelection);
-    return () => {
-      document.removeEventListener('mouseup', handleTextSelection);
+    const handleTouchEnd = (e) => {
+      // Prevent default behavior only if in highlight mode
+      if (isHighlightMode) {
+        e.preventDefault();
+      }
+      handleSelection();
     };
-  }, [isHighlightMode]);
+
+    // Add event listeners
+    document.addEventListener('mouseup', handleSelection);
+    document.addEventListener('touchend', handleTouchEnd);
+
+    // Remove event listeners on cleanup
+    return () => {
+      document.removeEventListener('mouseup', handleSelection);
+      document.removeEventListener('touchend', handleTouchEnd);
+    };
+  }, [isHighlightMode, handleSelection]);
 
   return (
     <>
