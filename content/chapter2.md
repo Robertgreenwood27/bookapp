@@ -1,9 +1,7 @@
 ---
-title: "Chapter 2: The Shadow Grows"
+title: "Chapter 2: Embracing the Darkness"
 backgroundImage: "/images/default-bg.jpg"
 ---
-
-## Part 1: Exploration of Abilities
 
 The alarm's shrill cry pierced the pre-dawn darkness at 5:30 AM, as it had countless times before. But this time, as Arris's eyes snapped open, something was different. The shadows in his room seemed deeper, more alive, writhing at the edges of his vision like restless serpents.
 
@@ -17,7 +15,7 @@ In the bathroom, Arris faced his reflection. His eyes, once a warm brown, now se
 
 The shower lasted exactly four minutes, scalding water doing little to wash away the darkness that clung to him like a second skin. As he dressed, Arris took extra care, ensuring every inch of his changed form was hidden beneath long sleeves and a high collar.
 
-In the spare room, his pets stirred as he entered. The soft glow of heat lamps illuminated scales and exoskeletons, but there was a new tension in the air. Spinnerette, his Mexican Red Knee tarantula, skittered to the back of her enclosure as he approached. Noodle, the ball python, coiled tighter, her eyes fixed on him with what almost looked like... fear?
+In the spare room, his pets stirred as he entered. The soft glow of heat lamps illuminated scales and exoskeletons, but there was a new tension in the air. Nyx, his Mexican Red Knee tarantula, skittered to the back of her enclosure as he approached. Ouroboros, the ball python, coiled tighter, her eyes fixed on him with what almost looked like... fear?
 
 *They sense it. The change in me. The wrongness. Even these creatures, who've never shied away from the dark, can feel the shadows growing within me.*
 
@@ -66,7 +64,6 @@ But beneath it all, there was a new sensation. A thrill of potential, of power w
 Chirp. Another day ends. Swipe. Click. Here we go again. But this time, the shadows answer, eager for what the future may bring.
 
 
-## Part 2: Escalation of Power Use
 
 The call center hummed with the usual cacophony of voices, a discordant symphony of frustration and forced politeness. But for Arris, the noise had taken on a new dimension. Each voice was now layered with unspoken thoughts, flashes of emotion that flickered at the edges of his consciousness like heat lightning.
 
@@ -132,7 +129,6 @@ As he walked to his car, Arris caught sight of his reflection in a window. His e
 
 Chirp. Another day ends. Swipe. Click. Here we go again. But this time, as Arris drove home, the shadows whispered of power, of potential, of a world remade in his image. And deep in the darkest corners of his mind, a part of him that was still human trembled at the thought.
 
-## Part 3: The Mask Slips
 
 The fluorescent lights of the call center flickered and dimmed as Arris walked to his cubicle, shadows seeming to trail in his wake. Coworkers glanced up as he passed, their eyes quickly darting away, a palpable tension filling the air.
 

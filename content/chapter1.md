@@ -3,7 +3,6 @@ title: "Chapter 1: The Routine"
 backgroundImage: "/images/default-bg.jpg"
 ---
 
-## Part 1: The Morning Ritual
 
 The alarm's shrill cry pierced the darkness at 5:30 AM. Arris' eyes snapped open, bloodshot and burning, his hand already moving to silence the noise. He lay still for a moment, breathing deeply, feeling the weight of existence settling onto his chest like an unwelcome guest.
 
@@ -24,11 +23,11 @@ After dressing in a crisp white shirt that seemed to leach what little color rem
 While it worked, he attended to the only task that offered a glimmer of something other than resigned despair. The spare room, a sanctuary of sorts, housed rows of terrariums lining the walls, reliquaries of some obscure, reptilian faith. The soft glow of heat lamps cast an amber pall, illuminating scales and exoskeletons.
 
 "Good morning," Arris murmured, his voice softer than it would be all day. He moved from tank to tank with reverent care, a small smile playing at the corners of his mouth. This room, this sanctuary of scales and exoskeletons, was the one place where the weight on his shoulders seemed to lift, if only for a moment.
-He started with the tarantulas, their terrariums arranged in a neat row. "Hello, Spinnerette," he whispered to the Mexican Red Knee, watching as she slowly emerged from her hide, legs moving with deliberate grace. Next was Fuzz, the curly-haired tarantula, its body a mass of golden-brown curls. It remained motionless, but Arris knew it was alert, sensing his presence.
+He started with the tarantulas, their terrariums arranged in a neat row. "Hello, Nyx," he whispered to the Mexican Red Knee, watching as she slowly emerged from her hide, legs moving with deliberate grace. Next was Morpheus, the curly-haired tarantula, its body a mass of golden-brown curls. It remained motionless, but Arris knew it was alert, sensing his presence.
 Moving on, he checked on Flicker, the leopard gecko. "Hungry this morning, aren't we?" Arris chuckled as the gecko's tongue flicked out, tasting the air with undisguised interest. He sprinkled a few crickets into the enclosure, watching with quiet joy as Flicker's eyes locked onto the prey, his whole body tensing in anticipation of the hunt.
-In the largest tank, Noodle the ball python uncoiled with sinuous grace. "There's my beautiful girl," Arris cooed, his fingers tracing the glass as Noodle followed the movement. Her scales shimmered in the soft light, a mesmerizing pattern of earth tones that never failed to captivate him. As she raised her head, eyes fixing on Arris, he felt a connection that transcended species. In that gaze, he saw neither judgment nor demand, only a simple, accepting presence.
-Last but not least, he moved to the corner where Spike's bearded dragon enclosure sat. "Good morning, you spiky pancake," Arris said fondly, watching as Spike bobbed his head in what seemed like greeting. The lizard scurried to the front of the tank, pressing his belly against the warm glass, soaking up the heat from the lamp above.
-Arris took his time, checking water levels, adjusting temperatures, and ensuring each habitat was clean and comfortable. He spritzed the tarantula enclosures lightly, watching droplets form on silk webs like morning dew. For Noodle, he refreshed the water bowl, making sure it was large enough for her to soak in if she wished.
+In the largest tank, Ouroboros the ball python uncoiled with sinuous grace. "There's my beautiful girl," Arris cooed, his fingers tracing the glass as Ouroboros followed the movement. Her scales shimmered in the soft light, a mesmerizing pattern of earth tones that never failed to captivate him. As she raised her head, eyes fixing on Arris, he felt a connection that transcended species. In that gaze, he saw neither judgment nor demand, only a simple, accepting presence.
+Last but not least, he moved to the corner where Draco's bearded dragon enclosure sat. "Good morning, you spiky pancake," Arris said fondly, watching as Draco bobbed his head in what seemed like greeting. The lizard scurried to the front of the tank, pressing his belly against the warm glass, soaking up the heat from the lamp above.
+Arris took his time, checking water levels, adjusting temperatures, and ensuring each habitat was clean and comfortable. He spritzed the tarantula enclosures lightly, watching droplets form on silk webs like morning dew. For Ouroboros, he refreshed the water bowl, making sure it was large enough for her to soak in if she wished.
 As he worked, Arris felt the tension in his body begin to unwind. Here, among these creatures that asked for nothing but basic care and offered silent companionship in return, he found a peace that eluded him in the human world. They didn't care about quotas or customer satisfaction surveys. They didn't demand explanations for things beyond their comprehension. They simply existed, and in doing so, reminded Arris of a simpler way of being.
 
 *These creatures, in their beautiful simplicity, ask nothing of me but the essentials. They don't demand explanations about the inexplicable, don't complain about the vagaries of existence. In their presence, the anxious knot in my chest loosens, if only for a moment. These creatures depend on me, yes, but they also give me something in return. A purpose. A moment of calm in the storm of existence. Is this what it feels like to be truly needed, truly appreciated? In this room, I'm not a corporate drone or a faceless voice on the phone. I'm a caretaker, a provider.*
@@ -57,7 +56,6 @@ Grabbing his ID badge, a technoplastic collar marking him as just another cog in
 
 Chirp. Another call. Swipe. Click. Here we go again.
 
-## Part 2: The Descent Begins
 
 The automatic doors parted with a hiss, exhaling stale air redolent with desperation and cheap coffee. Arris stepped inside, feeling the building swallow him whole. Fluorescent lights buzzed overhead, casting their sickly pallor over everything and everyone. Faces turned briefly, wan and drawn, before snapping back to screens as if afraid to catch some contagion of discontent.
 
@@ -125,7 +123,6 @@ As Arris stood to follow Lila to the break room, he felt different. The world ar
 
 Chirp. Another call. Swipe. Click. Here we go again. But this time, the shadows answer, eager for what the afternoon may bring.
 
-## Part 2.5: The Shadows Deepen
 
 The fluorescent lights flickered intermittently, casting eerie shadows across the call center floor. Arris sat rigidly in his chair, his pale fingers hovering over the keyboard. The clock on his computer screen read 2:17 PM, each passing minute feeling like an eternity.
 
@@ -188,9 +185,6 @@ As Arris prepared to answer the next call, he caught a glimpse of his reflection
 *What am I becoming? And more importantly... can I stop it? Do I even want to?*
 
 The questions echoed in his mind as he dove into the next call, the shadows gathering around him like a cloak. The afternoon stretched ahead, each call a new opportunity, a new temptation. And with each passing moment, the line between Arris and the darkness blurred a little more.
-
-
-## Part 3: The Mask Tightens
 
 The harsh fluorescent lights of the call center burned Arris' eyes as he stared at his reflection in the bathroom mirror. His skin, always pale, now had an almost translucent quality, the network of darkened veins beneath pulsing with an otherworldly rhythm. He tugged at the collar of his shirt, pulling it higher to hide the evidence of his... transformation? Evolution? Corruption?
 

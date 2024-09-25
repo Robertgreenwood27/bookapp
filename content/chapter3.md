@@ -1,9 +1,8 @@
 ---
-title: "Chapter 3: Consumed by Shadow"
+title: "Chapter 3: The Void"
 backgroundImage: "/images/default-bg.jpg"
 ---
 
-## Part 1: Descent into Darkness
 
 The call center no longer hummed with the cacophony of voices that had once grated on Arris's nerves. Instead, a palpable silence hung in the air, broken only by the occasional whisper or the muted tapping of keys. It was as if the very building held its breath, aware of the predator that stalked its fluorescent-lit halls.
 
@@ -59,23 +58,21 @@ As Arris left the building, the shadows no longer followed him. They led the way
 
 Chirp. Another day ends. Swipe. Click. Here we go again. But this time, as Arris stepped into the gathering dusk, the darkness welcomed him as one of its own.
 
-## Part 2: The World Reacts
-
 The key turned in the lock with a sound like bones breaking. Arris pushed open the door to his apartment, shadows writhing around him, seeping into the once-familiar space. The air grew thick and heavy, as if the very atmosphere recoiled from his presence.
 
 *Home sweet home. Or is it? Nothing feels the same anymore. Everything's changed. I've changed.*
 
 As Arris moved through the darkened rooms, he became aware of a strange silence. No scurrying of tiny feet, no rustling of scales against substrate. The usual sounds of his beloved pets were conspicuously absent.
 
-In the spare room, Arris flicked on the lights. The soft glow of heat lamps illuminated a scene of unnatural stillness. Spinnerette, his Mexican Red Knee tarantula, was pressed against the far corner of her enclosure, legs drawn tight against her body. Noodle, the ball python, was coiled into a tight ball, her head hidden beneath her own scales.
+In the spare room, Arris flicked on the lights. The soft glow of heat lamps illuminated a scene of unnatural stillness. Nyx, his Mexican Red Knee tarantula, was pressed against the far corner of her enclosure, legs drawn tight against her body. Ouroboros, the ball python, was coiled into a tight ball, her head hidden beneath her own scales.
 
 *What's wrong with you all? Don't you recognize me? I'm still Arris. Still your caretaker. Your master.*
 
-He approached Spike's bearded dragon enclosure, tapping on the glass. Normally, this would bring the lizard scurrying forward, eager for attention. But now, Spike remained motionless, his eyes fixed on Arris with what could only be described as terror.
+He approached Draco's bearded dragon enclosure, tapping on the glass. Normally, this would bring the lizard scurrying forward, eager for attention. But now, Draco remained motionless, his eyes fixed on Arris with what could only be described as terror.
 
-A twinge of something - guilt? regret? - flickered through Arris, quickly swallowed by the churning shadows within him. He reached for the latch of Spike's enclosure, intent on proving to himself that nothing had changed.
+A twinge of something - guilt? regret? - flickered through Arris, quickly swallowed by the churning shadows within him. He reached for the latch of Draco's enclosure, intent on proving to himself that nothing had changed.
 
-As his fingers touched the metal, a spark of dark energy leaped from his skin. The latch sparked and sizzled, the entire front of the enclosure suddenly alive with crawling tendrils of electricity. Spike skittered backward, pressing himself against the far wall of his habitat.
+As his fingers touched the metal, a spark of dark energy leaped from his skin. The latch sparked and sizzled, the entire front of the enclosure suddenly alive with crawling tendrils of electricity. Draco skittered backward, pressing himself against the far wall of his habitat.
 
 *What... what just happened? I didn't mean to... I'm not trying to hurt them. Am I?*
 
@@ -128,9 +125,6 @@ Another day. Another mask. How long can I keep this up?
 As Arris began to prepare for work, the shadows clung to him, a constant reminder of the power that simmered just beneath the surface. And deep within, a part of him wondered if today would be the day he finally lost control completely.
 Chirp. The world waits. Swipe. Click. Here we go again. But this time, as Arris stepped out into the morning light, he carried with him the weight of a night spent confronting the monster he'd become.
 
-
-
-## Part 3: The Breaking Point
 
 The call center loomed before Arris, a monument to monotony now transformed into a crucible of chaos. As he approached, each step heavy with exhaustion and dread, the air grew thick and heavy. Shadows writhed around him like restless serpents, responding to the turmoil within him.
 Just another day. Just have to make it through. Keep it together. Don't let them see.
@@ -198,15 +192,12 @@ Chirp. A city in darkness. Swipe. Click. Here we go again. But this time, as Arr
 
 And somewhere in the distance, a phone began to ring, carrying with it the possibility of redemption or damnation.
 
-
-
-## Part 4: Redemption and Balance
 The apartment door flew open, slamming against the wall with enough force to crack the plaster. Arris stumbled in, his breath coming in ragged gasps. The shadows clung to him like a second skin, writhing and pulsing with barely contained energy.
 Please, let them be okay. Let me not be too late.
 The silence that greeted him was deafening. No scurrying of tiny feet, no rustling of scales against substrate. Just the oppressive quiet of a home plunged into darkness.
 In the spare room, Arris found an eerie stillness. The lack of power had silenced the familiar hum of heat lamps and filters. In the dim light filtering through the windows, he could make out the shapes of his pets in their enclosures, unnaturally still.
 No, no, no. They need heat. They need light. What have I done?
-Relief at finding them alive warred with gut-wrenching guilt as Arris surveyed the scene. He reached out to Spinnerette's habitat, but even in the darkness, he could see her press herself into the farthest corner, away from his touch.
+Relief at finding them alive warred with gut-wrenching guilt as Arris surveyed the scene. He reached out to Nyx's habitat, but even in the darkness, he could see her press herself into the farthest corner, away from his touch.
 They're afraid. Of me. Of what I've become. And now they're in danger because of my actions.
 The realization hit him like a physical blow. He'd let the power consume him, had reveled in the destruction it wrought. And now, the creatures he loved most in the world were at risk, their carefully maintained environments disrupted by his unchecked abilities.
 In the distance, he could hear the wail of sirens, the city still reeling from the widespread blackout he'd caused. The weight of his actions pressed down on him, suffocating in its intensity.
@@ -227,7 +218,7 @@ Around him, the apartment began to stir. Lights flickered weakly, then grew stro
 "I'm sorry, is everything okay? Do you need assistance?" Alex's voice, patient despite the late hour and the strange silence.
 Arris blinked, coming back to himself. He looked down at his hands, no longer threaded with dark veins, just... hands. Human hands.
 "Uh... sorry," he mumbled, his voice hoarse and unfamiliar to his own ears. Without another word, he ended the call, letting the phone slip from his fingers onto the carpet.
-In the soft glow of the newly restored lights, Arris turned to face the spare room. His pets, no longer huddled in fear, began to stir in their enclosures. Spinnerette cautiously emerged from her hide, while Noodle uncoiled herself, tongue flicking curiously.
+In the soft glow of the newly restored lights, Arris turned to face the spare room. His pets, no longer huddled in fear, began to stir in their enclosures. Nyx cautiously emerged from her hide, while Ouroboros uncoiled herself, tongue flicking curiously.
 Arris let out a long, shuddering breath. The weight of everything he'd done, everything he'd almost become, pressed down on him. But beneath it all was a glimmer of hope, a chance for redemption.
 With slow, deliberate movements, Arris checked on each of his pets, ensuring their habitats were in order and their needs met. The familiar routine grounded him, anchoring him to the person he used to be - the person he could be again.
 As the first light of dawn began to creep through the windows, Arris finally allowed himself to rest. He set his alarm, the action so normal it almost felt surreal, and collapsed into bed.
