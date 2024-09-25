@@ -16,7 +16,7 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params }) {
-  const { title, pages, images } = await processChapter(`${params.chapter}.md`);
+  const { title, content } = await processChapter(`${params.chapter}.md`);
 
   const contentDir = path.join(process.cwd(), 'content');
   const files = fs.readdirSync(contentDir);
@@ -28,19 +28,17 @@ export async function getStaticProps({ params }) {
   return {
     props: {
       title,
-      pages,
-      images,
+      content,
       prevChapter,
       nextChapter,
     },
   };
 }
 
-export default function Chapter({ title, pages, images, prevChapter, nextChapter }) {
+export default function Chapter({ title, content, prevChapter, nextChapter }) {
   return (
     <ChapterLayout
-      pages={pages}
-      images={images}
+      content={content}
       title={title}
       prevChapter={prevChapter}
       nextChapter={nextChapter}

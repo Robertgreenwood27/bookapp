@@ -1,8 +1,8 @@
 ---
 title: "Chapter 1: The Routine"
-backgroundImage: "/images/default-bg.jpg"
 ---
 
+![530am](/images/530am.jpg)
 
 The alarm's shrill cry pierced the darkness at 5:30 AM. Arris' eyes snapped open, bloodshot and burning, his hand already moving to silence the noise. He lay still for a moment, breathing deeply, feeling the weight of existence settling onto his chest like an unwelcome guest.
 
