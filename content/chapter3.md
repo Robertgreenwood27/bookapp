@@ -4,7 +4,7 @@ backgroundImage: "/images/default-bg.jpg"
 ---
 
 
-The call center hummed with a subdued energy, the usual cacophony of voices muted as if the very air had grown thick with tension. Arris sat in his cubicle, acutely aware of the sidelong glances and hushed whispers that followed his every move. The shadows around him seemed to pulse with an otherworldly rhythm, visible only to his eyes.
+The call center hummed with a subdued energy, the usual clamor of voices muted as if the very air had grown thick with tension. Arris sat in his cubicle, acutely aware of the sidelong glances and hushed whispers that followed his every move. The shadows around him seemed to pulse with an otherworldly rhythm, visible only to his eyes.
 
 Arris's skin, paler than ever, had taken on an almost translucent quality. The network of dark veins beneath pulsed with barely contained power, a constant reminder of the changes coursing through him. He tugged at his collar, ensuring every inch of his neck was covered.
 

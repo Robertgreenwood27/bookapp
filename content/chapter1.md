@@ -201,7 +201,7 @@ Disturbed, Arris caught a glimpse of his reflection in the computer screen. His 
 
 The questions echoed in his mind as he prepared for the next call. The afternoon stretched ahead, each interaction now charged with new potential and hidden dangers.
 
-As the day wore on, Arris found himself increasingly overwhelmed. The harsh fluorescent lights of the call center burned his sensitive eyes. The cacophony of the office had taken on a new dimension - dozens of voices, all speaking at once, but now underlaid with whispers of thoughts and flickers of emotion. The raw, unfiltered essence of humanity laid bare before him.
+As the day wore on, Arris found himself increasingly overwhelmed. The harsh fluorescent lights of the call center burned his sensitive eyes. The din of the office had taken on a new dimension - dozens of voices, all speaking at once, but now underlaid with whispers of thoughts and flickers of emotion. The raw, unfiltered essence of humanity laid bare before him.
 
 *So much noise. So many minds, all crying out at once. How did I never hear this before? And how do I make it stop?*
 
