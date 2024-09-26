@@ -12,7 +12,7 @@ A soft groan escaped him as he swung his legs over the side of the bed. The floo
 
 In the bathroom, Arris faced his reflection in the mirror. Disheveled dark hair framed a face etched with discontent. But it was his skin that drew his gaze, pale as a corpse and shot through with black veins. They seemed to writhe beneath the surface, a network of dark rivers carrying something far more insidious than blood.
 
-*Look at yourself. Pale, drawn, a husk of a human being. Those veins... are they darker today? Moving? No, impossible. Just tricks of the light, of a mind frayed by monotony. But what if... No. Focus. Routine. Safety in the known, in the repeated.*
+*Look at yourself. Pale, drawn, a husk of a human being. Those veins... are they darker today? No, impossible. Just tricks of the light, of a mind frayed by monotony. But what if... No. Focus. Routine. Safety in the known, in the repeated.*
 
 The shower lasted exactly four minutes, a scalding baptism that did little to wash away the dread of the day ahead. As steam filled the small space, Arris closed his eyes, his mind dissecting the day ahead with surgical precision.
 
@@ -54,9 +54,6 @@ Grabbing his ID badge, a technoplastic collar marking him as just another cog in
 
 *Another day begins. The familiar weight settles on my shoulders as I approach the building. Will today be any different? Probably not. But perhaps that's for the best. After all, routine is safe. Predictable. And yet... why does it feel like I'm slowly suffocating?*
 
-Chirp. Another call. Swipe. Click. Here we go again.
-
-
 The automatic doors parted with a hiss, exhaling stale air redolent with desperation and cheap coffee. Arris stepped inside, feeling the building swallow him whole. Fluorescent lights buzzed overhead, casting their sickly pallor over everything and everyone. Faces turned briefly, wan and drawn, before snapping back to screens as if afraid to catch some contagion of discontent.
 
 *Gray partitions stretch out before me, a labyrinth designed not to confound, but to crush. Each step heavier than the last, dragging me deeper into this pit of corporate despair. How many souls have withered here, trapped in the maze of monotony?*
@@ -77,92 +74,112 @@ He settled into the chair, its creak a mournful song of plastic and metal. 7:29 
 
 *A part of me screams to reject, to rip off the headset, to run. But the moment passes, unacknowledged. The routine demands to be fed. And I, its willing slave, obey.*
 
-"Thank you for calling Pulse Telecom Billing Department. My name is Arris. How can I help you today?" His voice was smooth, practiced, devoid of the maelstrom churning in his chest. It was the voice of a man who had long ago learned to divorce words from thoughts, actions from desires.
-
-"Listen here," a shrill voice snapped, dripping with disdain. "I've been overcharged again, and I'm sick and tired of dealing with your incompetent company!"
-
-Arris' fingers flew over the keyboard, muscle memory pulling up customer information. Karen Winters, account number 78529. Three billing disputes in the last six months, all resolved in the company's favor.
-
-*A small part of my mind notes the irony – three disputes, three decades of life wasted in pursuit of... what, exactly? The American Dream? What a cosmic joke. But something's different today. The customer's anger... I can almost taste it, a tangible thing seeping through the phone lines.*
-
-"I apologize for any inconvenience, Ms. Winters. I'd be happy to review your account and address your concerns. Can you tell me which charges you believe are incorrect?" The words flowed automatically, a script etched into his very being.
-
-As the customer launched into a vitriolic tirade about hidden fees and corporate greed, Arris felt a strange sensation building in his chest. The shadow within was growing, feeding on sharp words and accusations. His veins darkened, standing out starkly against his pale skin, writhing beneath the surface like agitated serpents.
-
-*What is this? The woman's anger... it's flowing into me, filling me up. It should be draining, but instead, I feel... energized. Powerful. Like I could reach through the phone and touch her very essence.*
-
-"Ms. Winters," Arris interrupted, his voice taking on an unusual timbre that sent a chill down his own spine. "Have you considered that perhaps the problem isn't with our billing, but with your inability to manage your finances?"
-
-The words slipped out, smooth and dark as oil. There was a moment of silence on the other end, a vacuum pulling at Arris' very essence.
-
-*Did I just say that? Where did that come from? I should be panicking, but instead, I feel... exhilarated. Like I'm finally awake after years of sleepwalking.*
-
-He blinked, shocked at his own audacity. Before he could backpedal, Ms. Winters spoke again, her tone suddenly subdued, almost sheepish.
-
-"I... well, I suppose I have been a bit careless with my spending lately. Do you think that might be causing the issue?"
-
-The shadow in Arris' chest pulsed, a surge of dark satisfaction flooding through him. He could almost taste Ms. Winters' confusion, her sudden doubt. It was intoxicating.
-
-*This is... incredible. I can feel her emotions shifting, bending to my will. Is this what true power feels like? To shape reality with mere words?*
-
-"That's certainly possible, Ms. Winters. Why don't we go through your recent charges together? I can help you identify areas where you might be able to reduce your spending." Arris guided the now-compliant customer through her bill, his voice smooth and compelling.
-
-The call ended with a grateful Ms. Winters and a promise to be more mindful of her expenditures. Arris ended the call and stared at his hands, flexing his fingers as if to make sure they were still under his control. His skin was paler than ever, the black veins more pronounced, pulsing with a life of their own.
-
-*What just happened? That wasn't normal customer service. That was... something else. Something powerful. Something dark. And God help me, I want more.*
-
-"Tough one, huh?"
-
-Arris started at the voice, looking up to see Lila leaning against his cubicle wall. Her dark eyes were warm with sympathy, a stark contrast to the cool blues and grays of the office. For a moment, just a moment, Arris thought he saw something else in her gaze. Fear? Recognition?
-
-*Does she know? Can she see the change in me? The shadows writhing beneath my skin, hungry for more?*
-
-"You could say that," he muttered, glancing at the clock. 12:30 PM. Break time. The numbers swam before his eyes, rearranging into incomprehensible patterns.
-
-As Arris stood to follow Lila to the break room, he felt different. The world around him seemed to have lost a bit more color, the edges of reality blurring and shifting. But within him, the darkness pulsed, alive and hungry. The routine was cracking, and through those cracks, something new and terrifying was beginning to emerge.
-
-Chirp. Another call. Swipe. Click. Here we go again. But this time, the shadows answer, eager for what the afternoon may bring.
-
-
-The fluorescent lights flickered intermittently, casting eerie shadows across the call center floor. Arris sat rigidly in his chair, his pale fingers hovering over the keyboard. The clock on his computer screen read 2:17 PM, each passing minute feeling like an eternity.
-
-*Time crawls like a wounded animal, each second a struggle against the void. The shadows... they're growing, pulsing with each tick of the clock. Is it just me, or is the room getting darker?*
+<!-- call 1 -->
 
 Chirp. Another call. Swipe. Click. Here we go again.
 
-"Thank you for calling Pulse Telecom Billing Department. My name is Arris. How can I help you today?" The words flowed automatically, a river of false cheer masking the turbulent undercurrents beneath.
+"Thank you for calling Pulse Telecom Billing Department. My name is Arris. How can I help you today?" The words flowed automatically, a well-worn script that required no thought.
 
-"Yeah." a gruff voice barked through the headset. "I've got a problem with my bill. You people are charging me for services I never ordered!"
+"Yeah, hi," a sharp voice cut through the line. "I'm looking at my bill, and it's way higher than it should be. Again."
 
-Arris felt the familiar surge of darkness within him, a coiling serpent ready to strike. His veins darkened, stark against his pallid skin, pulsing with an otherworldly rhythm.
+Arris suppressed a sigh. Karen Winters, account number 78529. Three billing disputes in the last six months, all resolved in the company's favor. "I understand your concern, Ms. Winters. Can you tell me which charges specifically look incorrect to you?"
 
-*Another disgruntled customer, another outlet for this... power. The anger in his voice, it's almost tangible. I could reach out and grasp it, mold it, bend it to my will. Should I? The temptation is almost overwhelming.*
+"All of them! Your service is crap, and you're charging me premium prices for it. I want a discount."
 
-"I understand your frustration, sir," Arris said, his voice taking on that strange, compelling timbre. "Let's take a look at your account together. Can you tell me which specific charges you're concerned about?"
+*Here we go. The old 'service is bad, give me free stuff' routine.* "I'm sorry you're unsatisfied with the service, Ms. Winters. Let's go through the charges one by one, and I can explain-"
 
-As the customer ranted, Arris felt the shadows around him deepen. The cubicle walls seemed to bend inward, as if drawn by some unseen force. The air grew thick, heavy with potential.
+"Explain? I don't need you to explain, I need you to fix it! Do you know how long I've been a customer?"
 
-*The shadows are listening, hungry. They want more. I want more. But at what cost? Each time I use this... ability, it grows stronger. Harder to control. What am I becoming?*
+Arris felt a flicker of irritation. "Yes, Ms. Winters. You've been with us for seven years. However, loyalty doesn't automatically-"
 
-With a thought, Arris reached out through the phone line, brushing against the caller's consciousness. Emotions flooded him – anger, frustration, a deep-seated fear of being cheated. He could almost taste them, bitter and intoxicating.
+"Seven years of overpaying for subpar service! I should just cancel and go to your competitor."
 
-"Sir," Arris interrupted, his voice smooth as oil and dark as night, "I believe I understand the root of the issue. You're not just angry about this bill, are you? You're worried about being taken advantage of, about losing control."
+Something snapped in Arris. The words were out of his mouth before he could stop them: "Then by all means, Ms. Winters, feel free to do so. I'm sure Horizon Telecom would be delighted to have such a... valued customer."
 
-The line went silent for a moment. When the customer spoke again, his voice was subdued, almost awed. "How... how did you know that?"
+A beat of silence. Arris blinked, surprised at his own directness. *Did I really just say that?*
 
-*I can feel his defenses crumbling, his mind opening like a flower to the moon. It would be so easy to push further, to reshape his thoughts entirely. The power... it's intoxicating.*
+"I... what?" Ms. Winters sputtered. "You can't talk to me like that! I want to speak to your manager!"
 
-Arris closed his eyes, fighting against the surging darkness within him. "It's a common concern," he said, forcing his voice back to a more normal register. "Let's go through your bill together, line by line. I want to make sure you understand every charge and feel confident in your service."
+Arris should have felt panic. Instead, a strange calm washed over him. "Ms. Winters, escalating this call won't change the fact that your charges are correct. Now, would you like me to review them with you, or shall we proceed with cancelling your service?"
 
-As Arris guided the customer through his bill, explaining each charge and offering suggestions for optimization, he felt the shadows recede slightly. The cubicle walls straightened, the air lightened. But the darkness within him remained, coiled and waiting.
+Another pause. When Ms. Winters spoke again, her tone had shifted. "No, I... I guess we can review the charges."
 
-The call ended with a satisfied customer and a pulsing headache building behind Arris' eyes. He removed his headset, hands shaking slightly.
+As Arris guided her through the bill, he felt oddly energized. His usual script was gone, replaced by concise, no-nonsense explanations. To his surprise, Ms. Winters offered little resistance.
 
-*What am I doing? This power... it's changing me. Changing everything. But I can't stop. Don't want to stop. It feels too good, too right. Like I'm finally awake after years of sleepwalking.*
+The call ended with no discounts given, but with Ms. Winters agreeing to a more suitable plan for her usage. As Arris disconnected, he stared at his hands, a slight tremor running through them.
+
+He shook his head, trying to clear the odd buzzing sensation that had taken up residence behind his eyes. Probably just the adrenaline from an unusual call.
+
+<!-- End call 1 -->
+
+"Tough one, huh?"
+
+Arris started at the voice, looking up to see Lila leaning against his cubicle wall. Her dark eyes were warm with sympathy, a stark contrast to the cool blues and grays of the office. For a moment, just a moment, Arris thought he sensed something else emanating from her. Concern? Unease?
+
+"You could say that," he muttered, rubbing his temples. A dull ache had begun to throb behind his eyes, accompanied by a strange buzzing sensation. He glanced at the clock. 12:30 PM. Break time.
+
+As Arris stood to follow Lila to the break room, he felt... different. The world around him seemed slightly off-kilter, colors a shade duller, sounds a touch sharper. But within him, something stirred, alive and hungry for more.
+
+"You okay?" Lila asked as they walked. "You look a bit pale."
+
+Arris nodded, not trusting his voice. The break room chatter washed over him in waves, and he could have sworn he caught snippets of thoughts mixed in with the spoken words. He shook his head, trying to clear it.
+
+*What's happening to me? Everything feels... more. More intense, more vivid, more overwhelming.*
+
+The fifteen-minute break seemed to stretch and contract, time losing all meaning. Before he knew it, Arris was back at his desk, the familiar weight of the headset settling onto his head like a crown of thorns.
+
+He sat rigidly in his chair, pale fingers hovering over the keyboard. The clock on his computer screen read 12:45 PM, each passing minute feeling like an eternity. The fluorescent lights flickered intermittently, casting eerie shadows that seemed to dance at the edges of his vision.
+
+*Time crawls like a wounded animal, each second a struggle against the void. The shadows... they're growing, pulsing with each tick of the clock. Is it just me, or is the room getting darker?*
+
+Arris took a deep breath, centering himself as best he could. Whatever was happening, he still had a job to do. He had to maintain control, had to keep the mask in place. As the next call came in, he steeled himself, unaware that each interaction was pushing him further along a path from which there might be no return.
+
+<!-- call 2 -->
+Chirp. Another call. Swipe. Click. Here we go again.
+
+"Pulse Telecom Billing, this is Arris. How can I assist you today?" His tone was polite but clipped, efficiency replacing his former forced cheer.
+
+"Yeah." a gruff voice responded. "I'm looking at my bill, and there's this 'network maintenance fee' that wasn't there before. What's that about?"
+
+Arris pulled up the account. James Rollins, long-time customer, never late on payments. The new fee was legitimate, but poorly communicated to customers.
+
+"I see, Mr. Rollins. The network maintenance fee is a new charge that helps us improve and maintain our infrastructure. It was mentioned in the notice sent with last month's bill."
+
+"Notice? What notice? I never saw any notice!" Mr. Rollins's voice rose, frustration evident.
+
+Arris felt a familiar stirring, a subtle warmth building in his chest. He could sense the man's anger, his feeling of being blindsided.
+
+"I understand your frustration, Mr. Rollins," Arris said, his voice taking on a slightly compelling tone. "Many customers miss these notices. Why don't we go through your bill together? I might be able to find some savings to offset this new charge."
+
+There was a pause, then a huffed, "Fine."
+
+As Arris began reviewing the bill, he found himself oddly attuned to Mr. Rollins's emotions. The man's irritation was palpable, but beneath it lay concern about rising costs and a desire to feel heard. Arris absently rubbed his forearm, noticing it seemed slightly paler than usual.
+
+*I can almost see the thoughts forming in his mind. His worries, his needs... they're so clear. I could use this, guide the conversation exactly where I want it to go. Wait, what am I thinking? And why does my skin look... different?*
+
+"Mr. Rollins," Arris said, allowing a note of understanding to color his voice, "I notice you're on our standard plan, but your usage suggests our Flex60 plan might suit you better. It would actually save you about $15 a month, even with the new fee."
+
+"Really?" The surprise in Mr. Rollins's voice was evident. "That... that would be good, yeah."
+
+As Arris explained the details, he felt a subtle shift in the customer's mood. The anger was dissipating, replaced by cautious appreciation.
+
+*This is... interesting. I'm not just hearing his words, I'm feeling his emotions change. Is this normal? Or is something else happening here?*
+
+"Thank you," Mr. Rollins said as they wrapped up the call. "I appreciate you taking the time to find a better plan for me."
+
+"Happy to help, Mr. Rollins. Is there anything else I can assist you with today?"
+
+After the call ended, Arris sat back, a slight furrow in his brow. He felt oddly energized, but also unsettled. The ease with which he'd turned the conversation around, the way he'd seemed to know exactly what the customer needed to hear... it was both exhilarating and slightly terrifying.
+
+*That was different. Not just knowing what to say, but feeling what he felt. Is this just getting better at the job, or something more? Something's changing, but I can't put my finger on what.*
+
+Arris shook his head, trying to clear the strange buzzing sensation behind his eyes. He glanced at his reflection in the computer screen, noting with a mix of curiosity and unease that he looked a shade paler than usual. He had more calls to take, more customers to assist, but for the first time, he felt a flicker of anticipation rather than dread.
+
+<!-- End call 2 -->
 
 "Arris?" Lila's voice cut through his thoughts. She stood at the entrance to his cubicle, concern etched across her features. "Are you okay? You look... different."
 
-Arris turned to face her, acutely aware of the shadows dancing at the edges of his vision. For a moment, he considered reaching out with his newfound power, brushing against her mind as he had with the customer. The temptation was almost overwhelming.
+Arris turned to face her, suddenly aware of a faint emotional undercurrent emanating from Lila - worry tinged with a hint of fear. The sensation was new, more vivid than before. For a moment, he considered reaching out further, probing deeper into her mind as he had unconsciously done with the customers. The temptation was almost overwhelming.
 
 *No. Not Lila. She's... she's real. Human. Not just a voice on the other end of the line. I can't... I won't...*
 
@@ -170,78 +187,92 @@ Arris turned to face her, acutely aware of the shadows dancing at the edges of h
 
 Lila nodded, but her eyes remained wary. "Yeah, I know. Listen, a bunch of us are going out for drinks after work. Want to join? Might help take the edge off."
 
-For a brief moment, Arris considered accepting. A night out, normal human interaction, a chance to forget the darkness growing within him. But even as the thought formed, he felt the shadows pulse, hungry and insistent.
+For a brief moment, Arris considered accepting. A night out, normal human interaction, a chance to forget the strange sensations growing within him. But even as the thought formed, he felt an unfamiliar pulse of energy, hungry and insistent.
 
-*I can't. It's not safe. I'm not safe. What if I lose control? What if the shadows reach out, touch their minds? No. Better to be alone. Safer.*
+*I can't. It's not safe. I'm not safe. What if I lose control? What if this... whatever it is... reaches out, touches their minds? No. Better to be alone. Safer.*
 
 "Thanks, but I can't tonight," Arris said, turning back to his computer. "Maybe next time."
 
-He felt Lila's gaze linger on him for a moment longer before she walked away. The shadows seemed to follow her, reaching out tendrils of darkness before snapping back to Arris like rubber bands.
+He felt Lila's gaze linger on him for a moment longer before she walked away. As she left, Arris experienced a bizarre sensation, as if tendrils of his consciousness followed her briefly before snapping back.
 
-Chirp. Another call. Swipe. Click. Here we go again.
+Disturbed, Arris caught a glimpse of his reflection in the computer screen. His eyes, usually a warm brown, now seemed darker, with tiny flecks of shadow swirling in their depths. The veins in his neck were more pronounced, a faint network of darkness spreading beneath his skin.
 
-As Arris prepared to answer the next call, he caught a glimpse of his reflection in the computer screen. His eyes, usually a warm brown, now seemed darker, flecked with shifting shadows. The veins in his neck pulsed visibly, a network of darkness spreading beneath his skin.
+*What's happening to me? These changes... they're not just in my head anymore.*
 
-*What am I becoming? And more importantly... can I stop it? Do I even want to?*
+The questions echoed in his mind as he prepared for the next call. The afternoon stretched ahead, each interaction now charged with new potential and hidden dangers.
 
-The questions echoed in his mind as he dove into the next call, the shadows gathering around him like a cloak. The afternoon stretched ahead, each call a new opportunity, a new temptation. And with each passing moment, the line between Arris and the darkness blurred a little more.
+As the day wore on, Arris found himself increasingly overwhelmed. The harsh fluorescent lights of the call center burned his sensitive eyes. The cacophony of the office had taken on a new dimension - dozens of voices, all speaking at once, but now underlaid with whispers of thoughts and flickers of emotion. The raw, unfiltered essence of humanity laid bare before him.
 
-The harsh fluorescent lights of the call center burned Arris' eyes as he stared at his reflection in the bathroom mirror. His skin, always pale, now had an almost translucent quality, the network of darkened veins beneath pulsing with an otherworldly rhythm. He tugged at the collar of his shirt, pulling it higher to hide the evidence of his... transformation? Evolution? Corruption?
+*So much noise. So many minds, all crying out at once. How did I never hear this before? And how do I make it stop?*
 
-*What am I becoming? These veins, this power... it's changing me. Changing everything. And I can't let anyone see. Can't let anyone know. The mask must stay in place, no matter the cost.*
+Unable to bear it any longer, Arris retreated to the bathroom. He stared at his reflection in the mirror, shocked by what he saw. His skin, always pale, now had an almost translucent quality. The network of darkened veins beneath pulsed with an otherworldly rhythm. He tugged at the collar of his shirt, pulling it higher.
 
-With trembling fingers, Arris buttoned his shirt all the way up, cinching the collar tight around his neck. He smoothed down the long sleeves, ensuring every inch of his arms was covered. The fabric felt suffocating, a prison of cotton and polyester, but it was necessary. A shield against prying eyes and uncomfortable questions.
+*What am I becoming? These veins, this... ability... it's changing me. Changing everything. And I can't let anyone see. Can't let anyone know. The mask must stay in place, no matter the cost.*
 
-As he exited the bathroom, the cacophony of the call center washed over him. Dozens of voices, all speaking at once, a symphony of frustration and false cheer. But underlying it all, Arris could hear... more. Whispers of thoughts, flickers of emotion, the raw, unfiltered essence of humanity laid bare before him.
+With trembling fingers, Arris buttoned his shirt all the way up, cinching the collar tight around his neck. He smoothed down the long sleeves, ensuring every inch of his arms was covered. The fabric felt suffocating, but it was necessary - a shield against prying eyes and uncomfortable questions.
 
-*So much noise. So many minds, all crying out at once. How did I never hear it before? And how do I make it stop?*
+As he exited the bathroom, he nearly collided with Lila.
 
-"Arris?" Lila's voice cut through the chaos, a lifeline of normalcy in a sea of strangeness. "You okay? You've been in there a while."
+"Arris?" Her voice cut through the chaos, a lifeline of normalcy in a sea of strangeness. "You okay? You've been in there a while."
 
-He turned to face her, forcing his features into a mask of calm indifference. "Fine," he said, the word clipped and harsh. "Just needed a moment."
+He turned to face her, forcing his features into a mask of calm indifference. The concern radiating from her was almost palpable now. "Fine," he said, the word clipped and harsh. "Just needed a moment."
 
-Lila's brow furrowed, concern etching lines across her forehead. "You sure? You seem... different lately. Is everything alright?"
+Lila's brow furrowed, worry etching lines across her forehead. "You sure? You seem... different lately. Is everything alright?"
 
 *She notices. Of course she notices. Lila always notices. But she can't know. Can't understand. It's not safe. I'm not safe.*
 
-"Everything's fine," Arris repeated, his voice softening slightly. He could feel the shadows within him stirring, reaching out towards Lila's mind. It would be so easy to just... nudge her thoughts, erase her concerns. The temptation was almost overwhelming.
+"Everything's fine," Arris repeated, his voice softening slightly. He could feel something stirring within him, reaching out towards Lila's mind. It would be so easy to just... nudge her thoughts, erase her concerns. The temptation was almost overwhelming.
 
 *No. Not Lila. Never Lila. She deserves better than that. Better than me.*
 
 With a curt nod, Arris brushed past her, heading back to his cubicle. He could feel Lila's gaze boring into his back, heavy with unasked questions and growing worry. But he didn't turn around. Couldn't turn around. The mask was already slipping, and he couldn't risk it falling away entirely.
 
+As he sat down, bracing himself for the next call, Arris realized with a mix of excitement and terror that each interaction now presented not just a challenge, but an opportunity to explore these emerging abilities. The line between Arris and whatever he was becoming blurred a little more with each passing moment.
+
+<!-- call 3 -->
+
 Chirp. Another call. Swipe. Click. Here we go again.
 
-"Thank you for calling Pulse Telecom Billing Department. My name is Arris. How can I help you today?" The words flowed automatically, a well-rehearsed script that required no thought, no emotion.
+"Thank you for calling Pulse Telecom Billing Department. My name is Arris. How can I help you today?" The words flowed automatically, but Arris could hear a new undercurrent in his own voice, a subtle power that made him shiver.
 
-As the caller launched into a tirade about hidden fees and corporate greed, Arris felt the familiar surge of darkness within him. The shadows deepened around his cubicle, the very air seeming to thicken with potential. He closed his eyes, fighting against the urge to reach out, to touch the caller's mind, to bend their thoughts to his will.
+As the caller launched into a tirade about hidden fees and corporate greed, Arris was overwhelmed by a sudden flood of emotions - not just his own, but the caller's as well. Anger, frustration, and a deep-seated fear of being taken advantage of washed over him in vivid detail.
 
-*Control. I need control. Can't let it show. Can't let it out. Just handle the call. Be professional. Be normal. Be human.*
+*So much rage, so much fear. It's like I can see it, taste it. And underneath... what's that? Worry about making ends meet? A sick spouse?*
 
-"I understand your frustration, sir," Arris said, his voice taking on that strange, compelling timbre that had become all too familiar lately. "Let's go through your bill together, line by line. I want to ensure you understand every charge."
+The shadows deepened around his cubicle, the very air seeming to thicken with potential. Arris closed his eyes, fighting against the urge to reach out, to delve deeper into the caller's mind, to bend their thoughts to his will.
 
-As Arris guided the caller through their bill, explaining each charge with mechanical efficiency, he felt a flicker of... something. A spark of genuine empathy, buried beneath layers of darkness and power. For a moment, just a moment, he remembered why he had taken this job in the first place. To help people. To make a difference, however small.
+*Control. I need control. Can't let it show. Can't let it out. But... could I use this to help?*
 
-*When did I forget that? When did the job become just a means to an end, a playground for these new abilities? What happened to the Arris who cared?*
+"I understand your frustration, sir," Arris said, his voice taking on that strange, compelling timbre that had become all too familiar lately. "Before we go through your bill, can you tell me a bit more about your situation? I sense there's more to your concerns than just these charges."
 
-The call ended with a satisfied customer and a hollow feeling in Arris' chest. He removed his headset, rubbing his temples to ease the constant, pulsing headache that had become his constant companion.
+As the caller hesitantly opened up, Arris found himself navigating the conversation with uncanny precision, addressing fears the customer hadn't even voiced aloud. He guided them through the bill, explaining each charge while simultaneously soothing their deeper anxieties.
+
+Through it all, Arris felt a mixture of exhilaration and unease. The power thrumming through him was intoxicating, but a small part of him recoiled at how easily he was influencing the caller's emotional state.
+
+*When did the job become just a means to an end, a playground for these new abilities? What happened to the Arris who cared about helping people, not manipulating them?*
+
+The call ended with a satisfied customer and a conflicted Arris. He removed his headset, catching sight of his reflection in the computer screen. His skin was noticeably paler, the veins at his temples darker and more pronounced. His eyes, usually a warm brown, now swirled with flecks of shadow.
+
+Rubbing his temples to ease the constant, pulsing headache that had become his companion, Arris couldn't shake the feeling that he was standing on a precipice. The question was, would he step back from the edge... or dive into the darkness below?
+
+<!-- End call 3 -->
 
 "Nice work," a voice said from behind him. Arris turned to see his supervisor, Mr. Hendricks, standing at the entrance to his cubicle. "Your numbers have been impressive lately. Keep it up."
 
-Arris nodded, not trusting himself to speak. He could feel the shadows within him reaching out, hungry for more. It would be so easy to touch Mr. Hendricks' mind, to ensure continued praise and advancement. The temptation was almost overwhelming.
+As Mr. Hendricks spoke, Arris was hit by a wave of emotions that weren't his own - pride, curiosity, and an undercurrent of suspicion. He nodded, not trusting himself to speak. The shadows within him stirred, reaching out hungrily towards Mr. Hendricks' mind. It would be so easy to touch his thoughts, to nudge that suspicion away and ensure continued praise and advancement. The temptation was almost overwhelming.
 
-*No. That's not who I am. That's not who I want to be. I'm better than that. Aren't I?*
+*No. That's not who I am. That's not who I want to be. I'm better than that. Aren't I? But if I could just make sure he keeps seeing me positively...*
 
-As Mr. Hendricks walked away, Arris caught sight of his reflection in his computer screen. His eyes, once a warm brown, now seemed darker, flecked with shifting shadows. The veins in his neck pulsed visibly, even through the high collar of his shirt.
+Arris clenched his fists, fighting for control. "Thank you, sir," he managed to say, his voice strained. "I'm just trying to do my best."
+
+As Mr. Hendricks walked away, Arris caught sight of his reflection in his computer screen. His eyes, once a warm brown, now seemed darker, flecked with shifting shadows. The veins in his neck pulsed visibly, even through the high collar of his shirt. He ran a hand through his hair, noticing how much paler his skin had become.
 
 *The mask is slipping. How long can I keep this up? How long before someone notices? Before I lose control entirely?*
 
 Chirp. Another call. Swipe. Click. Here we go again.
 
-As Arris prepared to answer the next call, he felt the weight of his secret pressing down on him. The distance between him and his coworkers, once a comfort, now felt like a yawning chasm. The routine that had once been his anchor now felt like a prison.
+As Arris prepared to answer the next call, he felt the weight of his secret pressing down on him. The distance between him and his coworkers, once a comfort, now felt like a yawning chasm. The cacophony of emotions and half-formed thoughts from those around him buzzed constantly at the edges of his awareness. The routine that had once been his anchor now felt like a prison.
 
 *Is this my life now? Hiding, lying, pretending to be normal? How long can I keep up this charade? And what happens when it finally falls apart?*
 
-The questions echoed in his mind as he dove into the next call, the shadows gathering around him like a cloak. The afternoon stretched ahead, each call a new challenge, a new test of his control. And with each passing moment, the mask tightened, threatening to suffocate the last remnants of the man Arris used to be.
-
-
+The questions echoed in his mind as he dove into the next call, the shadows gathering around him like a cloak. He could already sense the caller's emotional state before they even spoke. The afternoon stretched ahead, each call a new challenge, a new test of his control, and a new temptation to use his growing abilities. And with each passing moment, the mask tightened, threatening to suffocate the last remnants of the man Arris used to be.
