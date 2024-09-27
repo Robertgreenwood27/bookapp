@@ -10,7 +10,7 @@ The alarm's shrill cry pierced the darkness at 5:30 AM. Arris' eyes snapped open
 
 A soft groan escaped him as he swung his legs over the side of the bed. The floorboards creaked under his feet as he made his way through the darkness, muscle memory guiding him through the familiar space.
 
-In the bathroom, Arris faced his reflection in the mirror. Disheveled dark hair framed a face etched with discontent. But it was his skin that drew his gaze, pale as a corpse and shot through with black veins. They seemed to writhe beneath the surface, a network of dark rivers carrying something far more insidious than blood.
+The bathroom mirror revealed a face Arris barely recognized. Dark circles underlined his eyes, and his skin had taken on an unhealthy pallor. Faint lines, like shadowy tributaries, seemed to pulse just beneath the surface of his skin.
 
 *Look at yourself. Pale, drawn, a husk of a human being. Those veins... are they darker today? No, impossible. Just tricks of the light, of a mind frayed by monotony. But what if... No. Focus. Routine. Safety in the known, in the repeated.*
 

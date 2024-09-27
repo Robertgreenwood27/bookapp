@@ -118,7 +118,7 @@ His phone buzzed in his pocket. With trembling fingers, Arris pulled it out. The
 
 The shadows around Arris grew more pronounced, reaching out to touch the walls, the floor, the ceiling. In the kitchen, he heard the soft hum of the refrigerator stutter and change pitch. The microwave's display flickered, showing random symbols before going dark.
 
-Arris staggered to the bathroom, desperate for a moment of normalcy. But as he flicked on the light, he found no comfort in his reflection. His skin was unnaturally pale, dark veins visible beneath the surface. His eyes, once a warm brown, now swirled with shadows that seemed to devour the light.
+The harsh bathroom light offered Arris no comfort as he confronted his reflection. His skin, now almost translucent, revealed a complex network of dark veins beneath. But it was his eyes that truly unsettled him - where once warm brown had resided, now swirled bottomless pools of shadow that seemed to devour the very light around them.
 
 *Is this me? Is this what I'm becoming? Something beyond human?*
 
@@ -157,7 +157,7 @@ Swipe. Click.
 
 *I guess we go again.*
 
-With a groan that seemed to come from the depths of his soul, Arris pushed himself to his feet. He stared at his reflection in the mirror, barely recognizing the pale, haunted face that stared back at him. The veins beneath his skin pulsed darkly, and his eyes swirled with shadowy depths.
+With a groan that seemed to come from the depths of his soul, Arris pushed himself to his feet. Arris barely recognized the being that stared back from the mirror. Pale as death, with veins pulsing darkly beneath paper-thin skin, he looked more specter than human. His eyes, once windows to his soul, now appeared as vortexes of living shadow, hinting at the immense and terrifying power that churned within him.
 
 *Another day. Another mask. How long can I keep this up? Do I even want to?*
 

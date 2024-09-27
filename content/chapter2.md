@@ -9,7 +9,7 @@ The alarm's shrill cry pierced the pre-dawn darkness at 5:30 AM, as it had count
 
 Arris sat up, his skin noticeably paler in the dim light. The network of veins beneath his skin seemed more pronounced, pulsing with an unfamiliar rhythm. He flexed his fingers, a strange tingling sensation running through them.
 
-In the bathroom, Arris faced his reflection. His eyes, usually a warm brown, now appeared darker, with tiny flecks of shadow swirling in their depths. The face staring back at him was familiar, yet subtly altered in ways he couldn't quite define.
+Arris peered at his reflection, startled by the changes. His once warm brown eyes now held a darker hue, with tiny flecks that seemed to shift and swirl in the light. The face staring back at him was his own, yet subtly altered in ways that sent a chill down his spine.
 
 *Look at yourself. What's happening to me? Is this some kind of evolution, or am I losing my mind? And why doesn't it terrify me as much as it should?*
 
@@ -163,7 +163,7 @@ As his supervisor walked away, Arris felt a mix of frustration and relief. The m
 
 The rest of the day passed in a blur of calls, each one a delicate balance between using his newfound skills and maintaining a veneer of normalcy. By the time he packed up to leave, Arris felt drained but exhilarated.
 
-As he walked to his car, Arris caught sight of his reflection in a window. His eyes seemed darker, the shadows under them more pronounced. The veins at his temples were visibly darker, pulsing slightly beneath his pale skin.
+Catching sight of himself in a car window, Arris was struck by his otherworldly appearance. His eyes, now more black than brown, seemed to absorb the light around them. The network of veins at his temples had darkened further, creating an intricate, pulsing web beneath his ashen skin..
 
 *What am I becoming? Something more than human? Something dangerous? And why doesn't that scare me as much as it should?*
 
