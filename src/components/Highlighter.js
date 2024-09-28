@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useCallback } from 'react';
-import { Highlighter } from 'lucide-react';
+import { Highlighter as HighlighterIcon } from 'lucide-react';
 
 const TextHighlighter = ({ chapterId }) => {
   const [isHighlightMode, setIsHighlightMode] = useState(false);
@@ -8,6 +8,37 @@ const TextHighlighter = ({ chapterId }) => {
   const handleHighlightMode = () => {
     setIsHighlightMode(!isHighlightMode);
     document.body.style.cursor = isHighlightMode ? 'default' : 'crosshair';
+  };
+
+  const getElementOffset = (element) => {
+    const range = document.createRange();
+    range.setStart(document.querySelector('.prose'), 0);
+    range.setEnd(element, 0);
+    return range.toString().length;
+  };
+
+  const saveHighlight = useCallback((highlightElement) => {
+    if (highlightElement) {
+      const highlightData = {
+        text: highlightElement.textContent,
+        offset: getElementOffset(highlightElement)
+      };
+      localStorage.setItem(`highlight_${chapterId}`, JSON.stringify(highlightData));
+      setDebug(`Saved highlight: ${JSON.stringify(highlightData)}`);
+    } else {
+      setDebug('No highlight element found to save');
+    }
+  }, [chapterId]);
+
+  const removeExistingHighlight = () => {
+    const existingHighlight = document.querySelector('.highlight');
+    if (existingHighlight) {
+      const parent = existingHighlight.parentNode;
+      while (existingHighlight.firstChild) {
+        parent.insertBefore(existingHighlight.firstChild, existingHighlight);
+      }
+      parent.removeChild(existingHighlight);
+    }
   };
 
   const handleSelection = useCallback(() => {
@@ -31,38 +62,7 @@ const TextHighlighter = ({ chapterId }) => {
       setIsHighlightMode(false);
       document.body.style.cursor = 'default';
     }
-  }, [isHighlightMode]);
-
-  const removeExistingHighlight = () => {
-    const existingHighlight = document.querySelector('.highlight');
-    if (existingHighlight) {
-      const parent = existingHighlight.parentNode;
-      while (existingHighlight.firstChild) {
-        parent.insertBefore(existingHighlight.firstChild, existingHighlight);
-      }
-      parent.removeChild(existingHighlight);
-    }
-  };
-
-  const saveHighlight = (highlightElement) => {
-    if (highlightElement) {
-      const highlightData = {
-        text: highlightElement.textContent,
-        offset: getElementOffset(highlightElement)
-      };
-      localStorage.setItem(`highlight_${chapterId}`, JSON.stringify(highlightData));
-      setDebug(`Saved highlight: ${JSON.stringify(highlightData)}`);
-    } else {
-      setDebug('No highlight element found to save');
-    }
-  };
-
-  const getElementOffset = (element) => {
-    const range = document.createRange();
-    range.setStart(document.querySelector('.prose'), 0);
-    range.setEnd(element, 0);
-    return range.toString().length;
-  };
+  }, [isHighlightMode, saveHighlight]);
 
   const restoreHighlight = useCallback(() => {
     removeExistingHighlight();
@@ -145,7 +145,7 @@ const TextHighlighter = ({ chapterId }) => {
         } text-white`}
         aria-label={isHighlightMode ? "Exit highlight mode" : "Enter highlight mode"}
       >
-        <Highlighter size={24} />
+        <HighlighterIcon size={24} />
       </button>
       {isHighlightMode && (
         <div className="fixed top-0 left-0 w-full bg-blue-500 text-white p-2 text-center">

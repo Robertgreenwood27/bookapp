@@ -6,7 +6,6 @@ export default function Layout({ children }) {
       {/* Header with space for hamburger icon */}
       <header className="py-4 px-4">
         <div className="max-w-4xl mx-auto flex justify-between items-center">
-          <h1 className="text-2xl font-bold">Chirp</h1>
           <div className="w-10 h-10"></div> {/* Placeholder for hamburger icon */}
         </div>
       </header>
