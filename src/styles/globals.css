@@ -63,3 +63,8 @@ body {
   background-color: red;
   color: white;
 }
+
+
+.highlight {
+  transition: background-color 0.3s ease;
+}

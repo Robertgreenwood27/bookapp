@@ -141,7 +141,7 @@ Then, breaking the oppressive silence:
 
 Chirp.
 
-Arris's eyes snapped open, focusing on his phone on the nightstand. 5:30 AM. Time for another day at the call center. Another day of pretending to be normal. Of holding back the tide of power that threatened to overflow at any moment.
+Arris's eyes snapped open, focusing on his clock on the nightstand. 5:30 AM. Time for another day at the call center. Another day of pretending to be normal. Of holding back the tide of power that threatened to overflow at any moment.
 
 *Shit.*
 
