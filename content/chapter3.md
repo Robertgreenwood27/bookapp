@@ -100,15 +100,7 @@ In the spare room, Arris flicked on the lights. The soft glow of heat lamps illu
 
 He approached Draco's bearded dragon enclosure, tapping gently on the glass. Normally, this would bring the lizard scurrying forward, eager for attention. But now, Draco remained still, his eyes fixed on Arris with an wariness that felt like a physical blow.
 
-A wave of guilt and regret washed over Arris, momentarily pushing back the churning shadows within him. He reached for the latch of Draco's enclosure, desperate to prove to himself that nothing had fundamentally changed.
-
-As his fingers touched the metal, a small spark jumped from his skin. The latch gave a soft buzz, and Draco skittered backward, pressing himself against the far wall of his habitat.
-
-*No... I didn't mean to... I'm not trying to hurt them. I would never...*
-
-Arris pulled his hand back as if burned, his mind reeling. The shadows around him pulsed, responding to his distress. The lights in the room flickered, casting uneasy shadows across the walls.
-
-He backed out of the room, closing the door with shaking hands. In the hallway, he leaned against the wall, trying to catch his breath. The overhead light dimmed and brightened erratically, mirroring his turbulent emotions.
+A wave of guilt and regret washed over Arris, momentarily pushing back the churning shadows within him. He backed out of the room, closing the door with shaking hands.
 
 *Control. I need control. But how can I control something I barely understand?*
 
@@ -163,7 +155,7 @@ With a groan that seemed to come from the depths of his soul, Arris pushed himse
 
 As Arris began to prepare for work, the shadows clung to him, a constant reminder of the power that simmered just beneath the surface. Deep within, a part of him wondered if today would be the day he finally embraced his new abilities completely.
 
-Chirp. The world waits. Swipe. Click. Here we go again. But this time, as Arris stepped out into the morning light, he carried with him the weight of a night spent confronting the being he was becoming.
+Arris stepped out into the morning light, he carried with him the weight of a night spent confronting the being he was becoming.
 
 The call center loomed before Arris, a monument to monotony now transformed into an arena of potential. As he approached, each step heavy with exhaustion and a strange anticipation, the air grew thick with tension. Shadows shifted around him, responding to his conflicted emotions.
 
@@ -235,13 +227,13 @@ With a thought, Arris reached into Lila's mind, erasing her concern, her fear, h
 
 *How dare they. How dare any of them try to hold me back. To cage me. To deny me what is rightfully mine.*
 
-The fury built within Arris, a maelstrom of dark energy that threatened to tear him apart. He threw his head back and screamed, a sound of pure rage and power that shattered windows and sent cracks spiderwebbing across the walls.
+The fury built within Arris, a maelstrom of dark energy that threatened to tear him apart. He threw his head back and screamed, a sound of pure rage and power, enough to shatter windows and send cracks spiderwebbing across the walls.
 
 The energy exploded outward, a shockwave of darkness that engulfed the entire building. Electronics sparked and died, their circuits overloaded by the surge of power. The very foundations of the building groaned, straining against forces they were never designed to withstand.
 
 As the shockwave spread beyond the call center, Arris felt it touch other minds, other buildings. He could sense the entire city laid out before him, a web of lights flickering and dying as his power washed over them.
 
-*The whole city. I can feel all of it. Every mind, every soul. I could snuff them out with a thought. Reshape reality itself.*
+*The whole city. I can feel all of it. Every mind, every soul. I could bend them all to my will with a thought. Reshape their reality, their very perceptions.*
 
 But even as the intoxicating rush of power flooded through him, a small voice in the back of Arris's mind cried out in horror. A memory surfaced - his pets, cowering in fear. The creatures he had sworn to protect, now threatened by the very power he wielded.
 
@@ -249,15 +241,15 @@ But even as the intoxicating rush of power flooded through him, a small voice in
 
 With a Herculean effort, Arris reined in his power. The shadows receded, retreating into him like water down a drain. The air cleared, the oppressive weight of his rage lifting.
 
-As his vision cleared, Arris saw the devastation he had wrought. The call center was in ruins, unconscious bodies strewn across the floor. Lila stood motionless, her eyes vacant, mind wiped clean of the trauma she'd just witnessed. Outside, he could hear sirens wailing, the city in chaos.
+As his awareness returned, Arris saw the impact of his outburst. The call center was silent, all activity frozen. His coworkers stood motionless, their faces a mix of shock, fear, and awe. Some stared at him with wide eyes, others averted their gaze, as if afraid to meet his. Lila stood motionless, her eyes vacant, mind wiped clean of the trauma she'd just witnessed. Outside, he could hear sirens wailing, the city in chaos.
 
 *What have I done? I have to get home. Have to make sure they're safe.*
 
-Without a backward glance, Arris fled the scene of destruction. As he ran through the streets, he could feel the tenuous control he had regained already beginning to slip. The shadows within him roiled and churned, hungry for more chaos, more destruction.
+Without a backward glance, Arris fled the scene. As he ran through the streets, he could feel the tenuous control he had regained already beginning to slip. The shadows within him roiled and churned, hungry for more chaos, more destruction.
 
-Chirp. A city in darkness. Swipe. Click. Here we go again. But this time, as Arris raced towards home, he knew that everything hung in the balance. His humanity, his sanity, the very fabric of reality - all teetered on the edge of oblivion.
+As Arris raced towards home, he knew that everything hung in the balance. His humanity, his sanity, the very fabric of reality - all teetered on the edge of oblivion.
 
-And somewhere in the distance, a phone began to ring, carrying with it the possibility of redemption or damnation.
+Bursting into his apartment, Arris rushed to the spare room where his pets were kept. His heart raced as he opened the door, dreading what he might find. The room was pitch black and unnaturally cold, the carefully maintained habitats now silent and still. Panic gripped him as he thought of his beloved creatures, their delicate lives threatened by the sudden loss of heat and light.
 
 With trembling hands, Arris reached for his phone. The screen glitched and flickered, but he managed to dial the electric company. Each ring stretched into eternity.
 

@@ -1,28 +1,23 @@
 import React from 'react';
-import Image from 'next/image';
 
-export default function Layout({ children, backgroundImage }) {
+export default function Layout({ children }) {
   return (
-    <div className="relative min-h-screen flex flex-col bg-background text-foreground">
-      {/* Background Image and Overlay */}
-      <div className="absolute inset-0 flex items-center justify-center">
-        <div className="relative w-full h-full max-w-[1024px] max-h-[1024px]">
-          <Image
-            src={backgroundImage}
-            alt="Background"
-            layout="fill"
-            objectFit="contain"
-            quality={100}
-            priority
-          />
+    <div className="min-h-screen flex flex-col bg-zinc-900 text-white">
+      {/* Header with space for hamburger icon */}
+      <header className="py-4 px-4">
+        <div className="max-w-4xl mx-auto flex justify-between items-center">
+          <h1 className="text-2xl font-bold">Chirp</h1>
+          <div className="w-10 h-10"></div> {/* Placeholder for hamburger icon */}
         </div>
-        <div className="absolute inset-0 bg-black opacity-60"></div>
-      </div>
+      </header>
 
-      {/* Content */}
-      <div className="relative z-10 flex flex-col flex-1 max-w-4xl mx-auto w-full px-4">
-        {children}
-      </div>
+      {/* Main content */}
+      <main className="flex-grow flex flex-col px-4">
+        <div className="max-w-4xl mx-auto w-full">
+          {children}
+        </div>
+      </main>
+
     </div>
   );
 }
