@@ -11,7 +11,7 @@ const ChapterLayout = ({ content, title, prevChapter, nextChapter, chapterId }) 
       <header className="py-6 text-center">
         <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold mb-4">{title}</h1>
         <div className="max-w-xl mx-auto">
-          <AudioPlayer audioSrc={audioSrc} />
+          <AudioPlayer audioSrc={audioSrc} chapterId={chapterId} />
         </div>
       </header>
 
