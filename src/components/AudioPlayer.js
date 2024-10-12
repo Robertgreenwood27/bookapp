@@ -25,13 +25,19 @@ const AudioPlayer = ({ audioSrc, chapterId }) => {
       localStorage.setItem(`audioTime-${chapterId}`, audio.currentTime);
     };
 
-    audio.addEventListener('timeupdate', updateTime);
-    audio.addEventListener('loadedmetadata', () => {
+    const handleLoadedMetadata = () => {
       setDuration(audio.duration);
-    });
+      if (savedTime) {
+        audio.currentTime = parseFloat(savedTime);
+      }
+    };
+
+    audio.addEventListener('timeupdate', updateTime);
+    audio.addEventListener('loadedmetadata', handleLoadedMetadata);
 
     return () => {
       audio.removeEventListener('timeupdate', updateTime);
+      audio.removeEventListener('loadedmetadata', handleLoadedMetadata);
     };
   }, [audioSrc, chapterId, playbackRate]);
 
@@ -51,6 +57,7 @@ const AudioPlayer = ({ audioSrc, chapterId }) => {
     const newRate = direction === 'up' ? playbackRate + 0.25 : playbackRate - 0.25;
     if (newRate >= 0.5 && newRate <= 2) {
       setPlaybackRate(newRate);
+      audioRef.current.playbackRate = newRate;
       if (direction === 'up') {
         setMessage("Speeding up! Now you're listening at 'skimming' pace.");
       } else {
@@ -63,15 +70,9 @@ const AudioPlayer = ({ audioSrc, chapterId }) => {
     const audio = audioRef.current;
     if (audio) {
       audio.currentTime += seconds;
+      setCurrentTime(audio.currentTime);
       setMessage(seconds > 0 ? "Fast-forwarding: Like skimming, but lazier!" : "Rewinding: For when you zone out... again.");
     }
-  };
-
-  const onProgressChange = (e) => {
-    const audio = audioRef.current;
-    const newTime = (e.target.value / 100) * duration;
-    audio.currentTime = newTime;
-    setCurrentTime(newTime);
   };
 
   const formatTime = (time) => {
@@ -94,13 +95,12 @@ const AudioPlayer = ({ audioSrc, chapterId }) => {
         />
         <div className="w-full flex items-center space-x-2 text-white text-sm">
           <span>{formatTime(currentTime)}</span>
-          <input
-            type="range"
-            ref={progressRef}
-            className="w-full"
-            value={(currentTime / duration) * 100 || 0}
-            onChange={onProgressChange}
-          />
+          <div className="w-full bg-gray-600 h-2 rounded-full">
+            <div 
+              className="bg-blue-500 h-full rounded-full" 
+              style={{ width: `${(currentTime / duration) * 100}%` }}
+            ></div>
+          </div>
           <span>{formatTime(duration)}</span>
         </div>
         <div className="flex items-center justify-center space-x-4">
